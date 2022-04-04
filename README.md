@@ -2,7 +2,7 @@
 
 # Solution to avoid social media scam
 
-![Social Media image by Kseniya Samorukova](hasgtag.png "Social Media image by Kseniya Samorukova")
+![Social Media image by Kseniya Samorukova](images/hasgtag.png "Social Media image by Kseniya Samorukova")
 
 ## Information
 > This Github article, have been created to protect the world agains scam throw social media.
