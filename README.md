@@ -21,7 +21,7 @@ They clame to have somme private givaway of expensive product such as phone, tab
 
 The profile picure is often the same as the creator with a similar name, sometime the username name, have a phone number with a platform of chating (WhatsApp or Telegram).  
 
-![Marques Brownlee youtube](fakeVSreal.jpg "Marques Brownlee youtube")
+![Marques Brownlee youtube](images/fakeVSreal.jpg "Marques Brownlee youtube")
 
 From the image, you can see that Youtube, Twitter, instagram, tiktok have created a badge to identify the popular personality. 
 
@@ -33,7 +33,7 @@ To learn more about the badge checkout those articles:
 ## How to make bulk account
 Scammers know that fraud it's agains the social media turm of use. The Social Media app, ofter use [Two-Factor Authentication (2FA)](https://authy.com/what-is-2fa/) in order to make the task harder for scammers. Scammer have found other solutions one of them is VOIP. There are some IOS and Android apps like [Textenow](https://www.textnow.com/) that let you generate a USA and Canada phone number for free using [Voice over IP (VOIP)](https://www.fcc.gov/general/voice-over-internet-protocol-voip). If some companies only accept SMS, It is also possible to use a prepaid [SIM card](https://www.easytechjunkie.com/what-is-a-prepaid-sim-card.htm) with a [GSM modem](https://nowsms.com/faq/what-is-a-gsm-modem) and send SMS over 3G, or it is possible to use services that do the same with an [API](https://www.howtogeek.com/343877/what-is-an-api/) such as [PVACodes](https://pvacodes.com/)  
 
-![Image by Aman Saha](GSM.jpeg "Image by Aman Saha")
+![Image by Aman Saha](images/GSM.jpeg "Image by Aman Saha")
 
 ## That solution slould be made to avoid having 
 
